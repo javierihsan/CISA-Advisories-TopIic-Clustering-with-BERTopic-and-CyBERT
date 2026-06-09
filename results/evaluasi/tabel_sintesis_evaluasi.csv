@@ -1,0 +1,6 @@
+﻿Dimensi Evaluasi,Arah Optimal,Skenario A,Skenario B,Skenario Unggul
+Koherensi Topik C_v,Lebih tinggi ↑,0.6286,0.6825,B
+Koefisien Siluet,Lebih tinggi ↑,0.0283,0.0060,A
+Persentase Noise (%),Lebih rendah ↓,35.5%,16.5%,B
+Jumlah Topik Terbentuk,Kontekstual,62,46,Kontekstual
+Dokumen Berhasil Diklaster,Lebih banyak ↑,2233,2890,B

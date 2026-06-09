@@ -1,0 +1,11 @@
+﻿Metrik,Skenario A,Skenario B
+Model Embedding,all-MiniLM-L6-v2,CyBERT-Base-MLM-v1.1
+Jumlah Topik Terbentuk,62,46
+Dokumen Terklaster,2233,2890
+Dokumen Outlier (Noise),1228,571
+Persentase Noise (%),35.5%,16.5%
+Koherensi Topik C_v (rata-rata),0.6286,0.6825
+C_v Tertinggi,0.9933,0.9958
+C_v Terendah,0.2078,0.2315
+Std. Deviasi C_v,0.2171,0.2242
+Koefisien Siluet,0.0283,0.0060
